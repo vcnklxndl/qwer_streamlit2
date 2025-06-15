@@ -534,4 +534,4 @@ elif page == "🧾비전과 각오":
                 </div>
             </div>
         </div>
-    """, unsafe_allow_html=True)
+    """, unsafe_allow_html=True)    
